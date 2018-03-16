@@ -6,7 +6,7 @@ A Vaipe é uma startup de tecnologia voltada para soluções de recursos humanos
 
 # Instruções
 
-1. Desenvola uma estrutura de listragem e cadastro de usuário.
+1. Desenvolva uma estrutura de listragem e cadastro de usuário.
 2. Ao cadastrar o usuário no precisar salvar o json, só acresncertar na listagem.
 3. O design deverá ser responsivo (Mobile First).
 4. A lista de usuário está no user.json
