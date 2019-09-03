@@ -5,12 +5,7 @@
     "name": {
       "first": "Dan",
       "last": "Jones"
-    },
-    "rating": [
-      8,
-      7,
-      9
-    ]
+    }
   },
   {
     "id": 2,
@@ -18,12 +13,7 @@
     "name": {
       "first": "Bill",
       "last": "Barner"
-    },
-    "rating": [
-      7,
-      6,
-      5
-    ]
+    }
   },
   {
     "id": 3,
@@ -31,12 +21,7 @@
     "name": {
       "first": "Joe",
       "last": "Smoe"
-    },
-    "rating": [
-      4,
-      3,
-      null
-    ]
+    }
   },
   {
     "id": 4,
@@ -44,12 +29,7 @@
     "name": {
       "first": "Phil",
       "last": "Silva"
-    },
-    "rating": [
-      5,
-      8,
-      9
-    ]
+    }
   },
   {
     "id": 5,
@@ -57,12 +37,7 @@
     "name": {
       "first": "James",
       "last": "Souza"
-    },
-    "rating": [
-      1,
-      0,
-      9
-    ]
+    }
   },
   {
     "id": 6,
@@ -70,11 +45,6 @@
     "name": {
       "first": "Lara",
       "last": "Whait"
-    },
-    "rating": [
-      5,
-      7,
-      7
-    ]
+    }
   }
 ]
